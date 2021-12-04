@@ -7,7 +7,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Kali-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/22c1632179ccb2f5faff06298e27c14a.gif">
+  <img align="right" alt="Kali-Pic" height="150" style="border-radius:50px;" src="https://i.picasion.com/pic91/22c1632179ccb2f5faff06298e27c14a.gif">
 </div>
   
 <div> 
